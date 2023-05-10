@@ -1,0 +1,204 @@
+domain_name,emails,creation_data,expiration_date
+"['LINKEDIN.COM', 'linkedin.com']","['abusecomplaints@markmonitor.com', 'hostmaster@linkedin.com', 'whoisrequest@markmonitor.com']",2002-11-02 15:38:11,"[datetime.datetime(2024, 11, 2, 15, 38, 11), datetime.datetime(2024, 11, 2, 0, 0)]"
+"['TWITTER.COM', 'twitter.com']","['domainabuse@cscglobal.com', 'domains@twitter.com', 'domains-tech@twitter.com']","[datetime.datetime(2000, 1, 21, 16, 28, 17), datetime.datetime(2000, 1, 21, 11, 28, 17)]",2024-01-21 16:28:17
+INSTAGRAM.COM,"['abusecomplaints@registrarsafe.com', 'domain@fb.com']",2004-06-04 13:37:18,2031-06-04 13:37:18
+wikipedia.org,abusecomplaints@markmonitor.com,2001-01-13 00:12:14,2024-01-13 00:12:14
+"['WORDPRESS.COM', 'wordpress.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2000-03-03 12:13:23,"[datetime.datetime(2024, 3, 3, 12, 13, 23), datetime.datetime(2024, 3, 3, 0, 0)]"
+"['DROPBOX.COM', 'dropbox.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1995-06-28 04:00:00,"[datetime.datetime(2023, 6, 27, 4, 0), datetime.datetime(2023, 6, 26, 7, 0)]"
+"['ICLOUD.COM', 'icloud.com']","['domainabuse@cscglobal.com', 'domains@apple.com', 'apple-noc@apple.com']","[datetime.datetime(1999, 1, 15, 5, 0), datetime.datetime(1999, 1, 15, 0, 0)]",2024-01-15 05:00:00
+"['NETFLIX.COM', 'netflix.com']","['abusecomplaints@markmonitor.com', 'nicadmin@netflix.com', 'whoisrequest@markmonitor.com']",1997-11-11 05:00:00,"[datetime.datetime(2023, 11, 10, 5, 0), datetime.datetime(2023, 11, 10, 0, 0)]"
+"['SPOTIFY.COM', 'spotify.com']","['abuse@portsgroup.com', 'abuse@portsgroup.se']",2006-04-23 09:07:50,2030-04-23 09:07:50
+UDEMY.COM,"['abuse@safenames.net', 'daaecbekjkvl@idp.email', 'hostmaster@safenames.net']",2009-08-13 20:37:45,2023-08-13 20:37:45
+khanacademy.org,abuse@godaddy.com,2006-03-14 22:24:02,2024-03-14 22:24:02
+TED.COM,abuse@name.com,1994-11-08 05:00:00,2023-11-07 05:00:00
+coursera.org,abuse@godaddy.com,2012-01-12 01:57:48,2024-01-12 01:57:48
+"['HUBSPOT.COM', 'hubspot.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2005-02-06 20:02:28,"[datetime.datetime(2025, 2, 6, 20, 2, 28), datetime.datetime(2025, 2, 6, 0, 0)]"
+"['SQUARESPACE.COM', 'squarespace.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2003-03-25 21:26:58,"[datetime.datetime(2025, 3, 25, 20, 26, 58), datetime.datetime(2025, 3, 25, 0, 0)]"
+WIX.COM,abuse@godaddy.com,1995-05-12 04:00:00,2029-05-13 04:00:00
+"['SHOPIFY.COM', 'shopify.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2005-03-11 05:18:03,"[datetime.datetime(2025, 3, 11, 5, 18, 3), datetime.datetime(2025, 3, 11, 0, 0)]"
+"['ETSY.COM', 'etsy.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2004-02-05 23:50:06,"[datetime.datetime(2025, 2, 5, 23, 50, 6), datetime.datetime(2025, 2, 5, 0, 0)]"
+"['REDDIT.COM', 'reddit.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2005-04-29 17:59:19,"[datetime.datetime(2024, 4, 29, 17, 59, 19), datetime.datetime(2024, 4, 29, 0, 0)]"
+"['IMGUR.COM', 'imgur.com']","['abuse@namecheap.com', 'e7f59b9968064e709724c0a3516cd9fd.protect@withheldforprivacy.com']",2009-01-09 20:30:53,2027-01-09 20:30:53
+"['VIMEO.COM', 'vimeo.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2004-12-15 08:38:55,"[datetime.datetime(2023, 12, 15, 8, 38, 55), datetime.datetime(2023, 12, 15, 0, 0)]"
+"['SOUNDCLOUD.COM', 'soundcloud.com']","['abuse@support.gandi.net', '678de9d50fd4aae8db722f8e4fe08fd8-23938965@contact.gandi.net', 'aad07ea7fd9389b7ae7d5cb7386718f7-1431577@contact.gandi.net']","[datetime.datetime(2005, 7, 25, 10, 33, 38), datetime.datetime(2005, 7, 25, 8, 33, 38)]",2024-06-08 03:59:59
+zoom.us,,2002-04-24 15:03:39,2025-04-23 23:59:59
+GODADDY.COM,abuse@godaddy.com,1999-03-02 05:00:00,2024-11-01 11:59:59
+"['MOZ.COM', 'moz.com']",domainabuse@cscglobal.com,"[datetime.datetime(1998, 4, 29, 4, 0), datetime.datetime(1998, 4, 29, 0, 0)]",2024-04-28 04:00:00
+"['SEARCHENGINELAND.COM', 'searchengineland.com']","['abuse@tigertech.net', 'searchengineland.com-owner-202305-2f9b33@whois.tigertech.net', 'searchengineland.com-admin-202305-7548f0@whois.tigertech.net', 'searchengineland.com-tech-202305-3334a3@whois.tigertech.net']",2006-07-26 20:57:04,2023-07-26 20:57:04
+"['MASHABLE.COM', 'mashable.com']","['domainabuse@cscglobal.com', 'hostmaster@ziffdavis.com', 'dns-admin@cscglobal.com']","[datetime.datetime(2005, 7, 19, 14, 50, 34), datetime.datetime(2005, 7, 19, 10, 50, 34)]","[datetime.datetime(2026, 7, 19, 14, 50, 34), datetime.datetime(2026, 7, 19, 10, 50, 34)]"
+"['TECHCRUNCH.COM', 'techcrunch.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2005-06-10 22:56:20,"[datetime.datetime(2024, 6, 10, 22, 56, 20), datetime.datetime(2024, 6, 10, 0, 0)]"
+"['WIRED.COM', 'wired.com']","['domainabuse@cscglobal.com', 'domain_admin@advancemags.com', 'domains@condenast.com']","[datetime.datetime(1992, 11, 20, 5, 0), datetime.datetime(1992, 11, 20, 0, 0)]",2023-11-19 05:00:00
+ENTREPRENEUR.COM,abuse@godaddy.com,1994-10-11 04:00:00,2031-09-23 20:20:26
+"['FORBES.COM', 'forbes.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']","[datetime.datetime(1993, 6, 17, 4, 0), datetime.datetime(2015, 3, 27, 18, 12, 2)]","[datetime.datetime(2023, 6, 16, 4, 0), datetime.datetime(2023, 6, 16, 0, 0)]"
+INC.COM,"['abuse@web.com', 'domains@mansueto.com', 'domain.operations@web.com']",1996-03-06 05:00:00,2031-03-07 05:00:00
+THEGUARDIAN.COM,abuse@godaddy.com,1994-07-06 04:00:00,2025-07-05 04:00:00
+"['NYTIMES.COM', 'nytimes.com']","['abusecomplaints@markmonitor.com', 'hostmaster@nytimes.com', 'whoisrequest@markmonitor.com']",1994-01-18 05:00:00,"[datetime.datetime(2025, 1, 19, 5, 0), datetime.datetime(2025, 1, 19, 0, 0)]"
+"['CNN.COM', 'cnn.com']","['domainabuse@cscglobal.com', 'tmgroup@turner.com', 'hostmaster@turner.com']","[datetime.datetime(1993, 9, 22, 4, 0), datetime.datetime(1993, 9, 22, 0, 0)]","[datetime.datetime(2026, 9, 21, 4, 0), datetime.datetime(2026, 9, 21, 0, 0)]"
+BBC.COM,domainabuse@tucows.com,1989-07-15 04:00:00,2030-07-14 04:00:00
+"['ALJAZEERA.COM', 'aljazeera.com']","['abusecomplaints@markmonitor.com', 'admin@dnstinations.com', 'whoisrequest@markmonitor.com']",1996-04-12 04:00:00,"[datetime.datetime(2026, 4, 13, 4, 0), datetime.datetime(2026, 4, 12, 7, 0)]"
+RT.COM,"['tld-abuse@nic.ru', 'domadm@rttv.ru']",1991-09-23 04:00:00,"[datetime.datetime(2025, 9, 22, 4, 0), datetime.datetime(2025, 9, 21, 21, 0)]"
+"['NATIONALGEOGRAPHIC.COM', 'nationalgeographic.com']","['abuse@ascio.com', 'domains@ngs.org']","[datetime.datetime(1995, 10, 10, 4, 0), datetime.datetime(1995, 10, 10, 0, 0)]",2023-10-09 04:00:00
+"['DISCOVERY.COM', 'discovery.com']","['domainabuse@cscglobal.com', 'DNS_ADMIN@discovery.com']","[datetime.datetime(1993, 4, 20, 4, 0), datetime.datetime(1993, 4, 20, 0, 0)]",2024-04-21 04:00:00
+NASA.GOV,soc@nasa.gov,,
+,"['esanic@esa.int', 'esanoc@esa.int']",,
+"['NATURE.COM', 'nature.com']","['domainabuse@cscglobal.com', 'roger.hirschkind@macmillan.com', 'michael.badami@macmillan.com']","[datetime.datetime(1994, 8, 11, 4, 0), datetime.datetime(1994, 8, 11, 0, 0)]",2024-08-10 04:00:00
+sciencemag.org,"['domain.operations@web.com', 'abuse@web.com']",1996-04-28 04:00:00,2025-04-29 04:00:00
+jstor.org,"['domain.operations@web.com', 'abuse@web.com']",1996-02-16 05:00:00,2026-02-17 05:00:00
+"['WEBMD.COM', 'webmd.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']","[datetime.datetime(1998, 4, 6, 4, 0), datetime.datetime(1998, 4, 6, 7, 0)]","[datetime.datetime(2024, 4, 5, 4, 0), datetime.datetime(2024, 4, 5, 0, 0)]"
+mayoclinic.org,domainabuse@cscglobal.com,1997-02-08 05:00:00,2024-02-09 05:00:00
+HEALTHLINE.COM,abuse@gcd.com,2004-08-25 18:41:17,2027-08-25 18:41:17
+"['NERDWALLET.COM', 'nerdwallet.com']","['abuse@amazonaws.com', 'd6074ff5-c422-4761-a899-e0fa6b1b7c5f@identity-protect.org']",2009-02-03 15:14:56,2024-02-03 15:14:56
+"['BANKRATE.COM', 'bankrate.com']","['abuse@gcd.com', '103838@brandsightprivacy.com']",1995-03-06 05:00:00,2024-06-02 03:59:59
+ZILLOW.COM,abuse@godaddy.com,2004-09-16 21:16:58,2027-11-11 04:59:59
+TRULIA.COM,abuse@godaddy.com,"[datetime.datetime(2005, 9, 5, 20, 0, 18), datetime.datetime(2005, 9, 5, 15, 0, 18)]","[datetime.datetime(2023, 9, 5, 20, 0, 18), datetime.datetime(2023, 9, 5, 15, 0, 18)]"
+"['REALTOR.COM', 'realtor.com']","['abuse@web.com', '99vjkbctagh24a1irtirpfd0bg@domaindiscreet.com', 'd7e5l18ifehdla3n114tlp5k95@domaindiscreet.com', '0d7gsn9d9ihdmain1c3svr9aev@domaindiscreet.com', 'domain.operations@web.com']",1995-09-14 04:00:00,2023-09-13 04:00:00
+KAYAK.COM,abuse@101domain.com,1995-04-13 04:00:00,2024-05-02 03:59:59
+"['EXPEDIA.COM', 'expedia.com']","['domainabuse@cscglobal.com', 'domains@expedia.com', 'admin@internationaladmin.com']","[datetime.datetime(1995, 11, 25, 5, 0), datetime.datetime(1995, 11, 25, 0, 0)]",2026-10-12 21:52:56
+"['BOOKING.COM', 'booking.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1998-04-17 04:00:00,"[datetime.datetime(2025, 4, 16, 4, 0), datetime.datetime(2025, 4, 16, 0, 0)]"
+"['TRIPADVISOR.COM', 'tripadvisor.com']","['domainabuse@cscglobal.com', 'hostmaster@tripadvisor.com']","[datetime.datetime(1999, 3, 23, 5, 0), datetime.datetime(1999, 3, 23, 0, 0)]",2024-03-23 04:00:00
+LONELYPLANET.COM,abuse@gcd.com,1994-09-09 04:00:00,2023-09-08 04:00:00
+"['AIRBNB.COM', 'airbnb.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2008-08-05 07:29:00,"[datetime.datetime(2024, 8, 5, 7, 29), datetime.datetime(2024, 8, 5, 0, 0)]"
+COUCHSURFING.COM,"['abuse@web.com', 'kt2xz4d58bd@myprivatename.com', '57879264@myprivatename.com', 'domain.operations@web.com']",1999-06-13 03:02:30,2032-06-13 03:03:08
+"['MEETUP.COM', 'meetup.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1998-08-20 04:00:00,"[datetime.datetime(2024, 8, 19, 4, 0), datetime.datetime(2024, 8, 19, 0, 0)]"
+"['EVENTBRITE.COM', 'eventbrite.com']","['domainabuse@cscglobal.com', 'domains@eventbrite.com']","[datetime.datetime(2006, 1, 25, 22, 38, 4), datetime.datetime(2006, 1, 25, 17, 38, 4)]",2024-01-25 22:38:04
+"['YELP.COM', 'yelp.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2003-12-12 21:24:56,"[datetime.datetime(2023, 12, 12, 21, 24, 56), datetime.datetime(2023, 12, 12, 0, 0)]"
+"['TRIP.COM', 'trip.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1998-02-09 05:00:00,2027-12-19 05:18:17
+"['CTRIP.COM', 'ctrip.com']",abuse@ename.com,1999-08-09 00:30:46,2024-08-09 00:30:35
+"['SKYSCANNER.COM', 'skyscanner.com']","['domainabuse@cscglobal.com', 'domainadmin@skyscanner.net', 'dns-admin@cscglobal.com']","[datetime.datetime(2002, 7, 3, 19, 59, 18), datetime.datetime(2002, 7, 3, 15, 59, 18)]",2023-07-03 20:04:47
+CHEAPOAIR.COM,abuse@godaddy.com,2005-06-13 13:47:21,2024-06-13 13:47:21
+HOPPER.COM,abuse@name.com,1994-12-19 05:00:00,2026-12-18 05:00:00
+"['INDEED.COM', 'indeed.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1998-03-30 05:00:00,"[datetime.datetime(2024, 3, 29, 4, 0), datetime.datetime(2024, 3, 29, 0, 0)]"
+"['GLASSDOOR.COM', 'glassdoor.com']","['abusecomplaints@markmonitor.com', 'domains@glassdoor.com', 'whoisrequest@markmonitor.com']",2003-05-22 18:16:36,"[datetime.datetime(2024, 5, 22, 18, 16, 36), datetime.datetime(2024, 5, 22, 0, 0)]"
+"['MONSTER.COM', 'monster.com']","['domainabuse@cscglobal.com', 'hostmaster-admin@tmpw.net']","[datetime.datetime(1994, 7, 18, 4, 0), datetime.datetime(1994, 7, 18, 0, 0)]",2023-07-17 04:00:00
+"['ZIPRECRUITER.COM', 'ziprecruiter.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2010-02-23 04:10:56,2028-02-23 04:10:56
+"['UPWORK.COM', 'upwork.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2002-01-30 13:10:35,"[datetime.datetime(2024, 1, 30, 13, 10, 35), datetime.datetime(2024, 1, 30, 0, 0)]"
+FIVERR.COM,abuse@godaddy.com,"[datetime.datetime(2009, 12, 8, 20, 58, 25), datetime.datetime(2009, 12, 8, 15, 58, 25)]","[datetime.datetime(2026, 12, 8, 20, 58, 25), datetime.datetime(2026, 12, 8, 15, 58, 25)]"
+"['FREELANCER.COM', 'freelancer.com']",ABUSE@ENOM.COM,1995-08-18 04:00:00,2029-08-17 04:00:00
+"['LINKEDINLEARNING.COM', 'linkedinlearning.com']","['abusecomplaints@markmonitor.com', 'hostmaster@linkedin.com', 'whoisrequest@markmonitor.com']",2011-02-08 17:52:11,"[datetime.datetime(2025, 2, 8, 17, 52, 11), datetime.datetime(2025, 2, 8, 0, 0)]"
+"['LYNDA.COM', 'lynda.com']","['abusecomplaints@markmonitor.com', 'hostmaster@linkedin.com', 'whoisrequest@markmonitor.com']",1995-12-21 05:00:00,2024-10-30 20:25:07
+"['SKILLSHARE.COM', 'skillshare.com']",registrar-abuse@google.com,2003-07-25 18:13:22,2028-07-25 18:13:22
+TREEHOUSE.COM,"['abuse@web.com', 'wc5ty6sk5zg@networksolutionsprivateregistration.com', 'domain.operations@web.com']",1994-05-07 04:00:00,2025-05-08 04:00:00
+"['GITHUB.COM', 'github.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2007-10-09 18:20:50,"[datetime.datetime(2024, 10, 9, 18, 20, 50), datetime.datetime(2024, 10, 9, 0, 0)]"
+"['STACKOVERFLOW.COM', 'stackoverflow.com']","['domainabuse@cscglobal.com', 'sysadmin-team@stackoverflow.com']","[datetime.datetime(2003, 12, 26, 19, 18, 7), datetime.datetime(2003, 12, 26, 14, 18, 7)]",2024-02-02 11:59:59
+"['CODECADEMY.COM', 'codecademy.com']","['abuse@namecheap.com', '9ed5b27cd10746b6bd1719a916c4a2d0.protect@withheldforprivacy.com']",2011-08-10 05:15:43,2023-08-10 05:15:43
+LEETCODE.COM,abuse@godaddy.com,2010-07-11 01:27:34,2023-07-11 01:27:34
+HACKERRANK.COM,abuse@name.com,2012-05-30 00:39:04,2024-05-30 00:39:04
+"['UDACITY.COM', 'udacity.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2012-01-17 06:30:33,"[datetime.datetime(2024, 1, 17, 6, 30, 33), datetime.datetime(2024, 1, 17, 0, 0)]"
+PLURALSIGHT.COM,"['abuse@web.com', 'domains@pluralsight.com', 'customerservice@networksolutions.com', 'domain.operations@web.com']",2004-04-23 16:57:40,2024-04-23 16:57:40
+DATACAMP.COM,abuse@godaddy.com,2004-04-19 18:18:57,2027-04-19 18:18:57
+"['KAGGLE.COM', 'kaggle.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2009-08-28 07:33:49,"[datetime.datetime(2023, 8, 28, 7, 33, 49), datetime.datetime(2023, 8, 28, 0, 0)]"
+COURSERA.COM,abuse@godaddy.com,2012-01-12 01:57:35,2024-01-12 01:57:35
+edx.org,abuse@support.gandi.net,2001-11-25 19:02:08,2023-11-25 19:02:08
+"['FUTURELEARN.COM', 'futurelearn.com']","['abuse@support.gandi.net', '164c9408a6951f23ccd3304586305b76-1710315@contact.gandi.net']","[datetime.datetime(2012, 8, 27, 18, 1, 37), datetime.datetime(2012, 8, 27, 16, 1, 37)]",2029-08-27 18:01:37
+OPENCULTURE.COM,abuse@godaddy.com,2004-01-05 19:19:27,2024-01-05 19:19:27
+MIT.EDU,"['mark@mit.edu', 'noc@mit.edu']",,
+STANFORD.EDU,sunet-admin@stanford.edu,,
+HARVARD.EDU,"['Benjamin_Dash@harvard.edu', 'netmanager@harvard.edu']",,
+BERKELEY.EDU,noc@berkeley.edu,,
+ac.uk,,1996-08-01 00:00:00,
+ac.uk,,1996-08-01 00:00:00,
+ac.uk,,1996-08-01 00:00:00,
+ARTSY.NET,abuse@godaddy.com,1998-07-07 04:00:00,2023-07-06 04:00:00
+"['SAATCHIART.COM', 'saatchiart.com']","['qhccfbptph@whoisprivacyprotect.com', 'ABUSE@ENOM.COM']","[datetime.datetime(2010, 9, 24, 15, 52, 4), datetime.datetime(2010, 9, 24, 15, 52)]","[datetime.datetime(2023, 9, 24, 15, 52, 4), datetime.datetime(2023, 9, 24, 15, 52)]"
+ARTSPACE.COM,abuse@godaddy.com,1995-08-19 04:00:00,2023-08-18 04:00:00
+ARTNET.COM,"['abuse@101domain.com', '2c04a1.Ri1IxdN1DXhQ@digitalprivacy.co']",1995-05-21 04:00:00,2024-05-22 04:00:00
+ARTNETNEWS.COM,abuse@101domain.com,2013-12-18 18:31:49,2023-12-18 18:31:49
+"['ARTSJOURNAL.COM', 'artsjournal.com']","['artsjournal.com@proxy.dreamhost.com', 'DOMAIN-ABUSE@DREAMHOST.COM']","[datetime.datetime(1999, 8, 28, 7, 38, 3), datetime.datetime(1999, 8, 28, 0, 38, 3)]",2023-08-28 07:38:01
+poetryfoundation.org,"['domain.operations@web.com', 'abuse@web.com']",2002-04-16 20:19:47,2025-04-16 20:19:47
+theparisreview.org,abuse@melbourneit.com.au,2003-07-14 16:32:06,2023-07-14 16:32:06
+LITHUB.COM,abuse@wildwestdomains.com,2014-06-06 18:29:23,2023-06-06 18:29:23
+NYREVIEWOFBOOKS.COM,"['abuse@above.com', 'nyreviewofbooks.com@privacy.above.com']",2004-02-12 08:14:44,2024-02-12 08:14:44
+THEATLANTIC.COM,"['abuse@web.com', 'domains@theatlantic.com', 'domain.operations@web.com']",1995-08-15 04:00:00,2026-08-14 04:00:00
+"['NEWYORKER.COM', 'newyorker.com']","['domainabuse@cscglobal.com', 'domains@sabinfirm.com', 'domains@condenast.com']","[datetime.datetime(1993, 11, 15, 5, 0), datetime.datetime(1993, 11, 15, 0, 0)]",2023-11-14 05:00:00
+PARISREVIEW.COM,"['abuse@web.com', 'kz3zf7qk6qh@networksolutionsprivateregistration.com', 'domain.operations@web.com']",1998-01-12 05:00:00,2024-01-11 05:00:00
+"['GQ.COM', 'gq.com']","['domainabuse@cscglobal.com', 'domains@sabinfirm.com', 'domain_admin@advancemags.com', 'domains@condenast.com']","[datetime.datetime(1994, 5, 17, 4, 0), datetime.datetime(1994, 5, 17, 0, 0)]",2023-05-18 04:00:00
+"['ESQUIRE.COM', 'esquire.com']","['domainabuse@cscglobal.com', 'domains@hearst.com']","[datetime.datetime(1994, 12, 21, 5, 0), datetime.datetime(1994, 12, 21, 0, 0)]",2023-12-20 05:00:00
+"['ELLE.COM', 'elle.com']","['abuse@support.gandi.net', '04dcf4b6e90bea33b1fcff512084e016-724001@contact.gandi.net', 'tech-domain@lagarderenews.com']","[datetime.datetime(1996, 4, 4, 5, 0), datetime.datetime(1996, 4, 4, 3, 0)]",2025-04-05 04:00:00
+"['VOGUE.COM', 'vogue.com']","['domainabuse@cscglobal.com', 'domains@sabinfirm.com', 'domains@condenast.com']","[datetime.datetime(1994, 5, 17, 4, 0), datetime.datetime(1994, 5, 17, 0, 0)]",2023-05-18 04:00:00
+wired.co.uk,,2004-08-13 00:00:00,2023-08-13 00:00:00
+"['TECHRADAR.COM', 'techradar.com']","['abuse@lexsynergy.com', 'rights.domainmanager@futurenet.com']",2003-12-06 19:17:07,2026-12-06 19:17:07
+"['PCMAG.COM', 'pcmag.com']","['domainabuse@cscglobal.com', 'hostmaster@ziffdavis.com', 'dns-admin@cscglobal.com']","[datetime.datetime(1995, 4, 18, 4, 0), datetime.datetime(1995, 4, 18, 0, 0)]",2030-07-27 20:56:13
+"['IGN.COM', 'ign.com']","['domainabuse@cscglobal.com', 'hostmaster@ziffdavis.com', 'dns-admin@cscglobal.com']","[datetime.datetime(1998, 7, 25, 4, 0), datetime.datetime(1998, 7, 25, 0, 0)]",2031-07-24 04:00:00
+GAMESPOT.COM,domainabuse@tucows.com,1996-01-13 05:00:00,2025-01-12 05:00:00
+"['KOTAKU.COM', 'kotaku.com']","['domainabuse@cscglobal.com', 'dnsadmin@gizmodomedia.com']","[datetime.datetime(2002, 3, 5, 3, 25, 18), datetime.datetime(2002, 3, 4, 22, 25, 18)]",2024-03-05 03:25:18
+"['POLYGON.COM', 'polygon.com']","['domainabuse@cscglobal.com', 'domain.names@voxmedia.com']","[datetime.datetime(1992, 7, 17, 4, 0), datetime.datetime(1992, 7, 17, 0, 0)]",2023-07-16 04:00:00
+"['ROCKPAPERSHOTGUN.COM', 'rockpapershotgun.com']","['domainabuse@cscglobal.com', 'DNS@reedexpo.com']","[datetime.datetime(2007, 7, 10, 14, 28, 39), datetime.datetime(2007, 7, 10, 10, 28, 39)]",2023-07-10 14:28:39
+"['NME.COM', 'nme.com']","['abuse@amazonaws.com', '68ef21d5-ce0c-48e7-be5d-63e3872cfe11@identity-protect.org']",1996-02-27 05:00:00,2024-02-28 05:00:00
+"['IMDB.COM', 'imdb.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1996-01-05 05:00:00,"[datetime.datetime(2024, 1, 4, 5, 0), datetime.datetime(2024, 1, 3, 8, 0)]"
+"['ROTTENTOMATOES.COM', 'rottentomatoes.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1999-05-14 08:36:32,"[datetime.datetime(2025, 5, 14, 8, 37, 7), datetime.datetime(2025, 5, 14, 0, 0)]"
+METACRITIC.COM,domainabuse@tucows.com,1999-07-16 06:13:31,2024-07-16 06:13:31
+"['BOXOFFICEMOJO.COM', 'boxofficemojo.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1999-07-11 22:33:18,"[datetime.datetime(2024, 7, 11, 22, 33, 18), datetime.datetime(2024, 7, 11, 7, 0)]"
+MYANIMELIST.NET,abuse@godaddy.com,2006-04-01 01:16:01,2024-04-01 00:16:01
+"['CRUNCHYROLL.COM', 'crunchyroll.com']","['abuse@amazonaws.com', 'f138ee57-8d07-4b91-8e5e-4b77dc09e689@identity-protect.org']",2006-05-14 05:07:22,2023-08-28 03:59:59
+FUNIMATION.COM,"['a-b-u-s-e.whois.field@netearthone.com', 'carly.richardson@group1200.com']",1999-02-26 05:00:00,2025-02-26 05:00:00
+"['HULU.COM', 'hulu.com']","['domainabuse@cscglobal.com', 'huludomains@hulu.com']","[datetime.datetime(1997, 2, 21, 5, 0), datetime.datetime(1997, 2, 21, 0, 0)]",2024-02-22 05:00:00
+"['DISNEYPLUS.COM', 'disneyplus.com']","['domainabuse@cscglobal.com', 'Corp.DNS.Domains@disney.com']","[datetime.datetime(2000, 3, 23, 0, 53, 31), datetime.datetime(2000, 3, 22, 19, 53, 31)]",2024-03-22 23:53:30
+"['PRIMEVIDEO.COM', 'primevideo.com']","['abusecomplaints@markmonitor.com', 'hostmaster@amazon.com', 'whoisrequest@markmonitor.com']",2000-10-31 12:22:33,"[datetime.datetime(2023, 10, 31, 11, 22, 32), datetime.datetime(2023, 10, 31, 0, 0)]"
+"['NETFLIX.COM', 'netflix.com']","['abusecomplaints@markmonitor.com', 'nicadmin@netflix.com', 'whoisrequest@markmonitor.com']",1997-11-11 05:00:00,"[datetime.datetime(2023, 11, 10, 5, 0), datetime.datetime(2023, 11, 10, 0, 0)]"
+,,,
+"['YOUTUBE.COM', 'youtube.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2005-02-15 05:13:12,"[datetime.datetime(2024, 2, 15, 5, 13, 12), datetime.datetime(2024, 2, 15, 0, 0)]"
+"['VIMEO.COM', 'vimeo.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2004-12-15 08:38:55,"[datetime.datetime(2023, 12, 15, 8, 38, 55), datetime.datetime(2023, 12, 15, 0, 0)]"
+"['DAILYMOTION.COM', 'dailymotion.com']",abuse@nameshield.net,"[datetime.datetime(2005, 3, 15, 22, 29, 18), datetime.datetime(2005, 3, 15, 0, 0, tzinfo=datetime.timezone(datetime.timedelta(seconds=3600)))]","[datetime.datetime(2026, 3, 15, 21, 29, 18), datetime.datetime(2026, 3, 15, 0, 0, tzinfo=datetime.timezone(datetime.timedelta(seconds=3600)))]"
+"['TIKTOK.COM', 'tiktok.com']","['abuse@support.gandi.net', 'f19c697400249b00ba26da776aeaa3b0-20984370@contact.gandi.net']","[datetime.datetime(1996, 7, 21, 4, 0), datetime.datetime(1996, 7, 21, 2, 0)]",2023-07-20 04:00:00
+INSTAGRAM.COM,"['abusecomplaints@registrarsafe.com', 'domain@fb.com']",2004-06-04 13:37:18,2031-06-04 13:37:18
+FACEBOOK.COM,"['abusecomplaints@registrarsafe.com', 'domain@fb.com']",1997-03-29 05:00:00,2032-03-30 04:00:00
+"['PINTEREST.COM', 'pinterest.com']","['abusecomplaints@markmonitor.com', 'web@dnstinations.com', 'whoisrequest@markmonitor.com']",2009-11-26 19:21:23,"[datetime.datetime(2024, 11, 26, 19, 21, 23), datetime.datetime(2024, 11, 26, 0, 0)]"
+"['SNAPCHAT.COM', 'snapchat.com']","['abusecomplaints@markmonitor.com', 'admin@dnstinations.com', 'whoisrequest@markmonitor.com']",2012-02-28 19:29:26,2026-02-28 19:29:26
+"['REDDIT.COM', 'reddit.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2005-04-29 17:59:19,"[datetime.datetime(2024, 4, 29, 17, 59, 19), datetime.datetime(2024, 4, 29, 0, 0)]"
+9GAG.COM,abuse@name.com,2008-04-12 06:20:03,2026-04-12 06:20:03
+"['BUZZFEED.COM', 'buzzfeed.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2002-08-07 18:40:30,"[datetime.datetime(2024, 8, 7, 18, 40, 30), datetime.datetime(2024, 8, 7, 0, 0)]"
+"['MASHABLE.COM', 'mashable.com']","['domainabuse@cscglobal.com', 'hostmaster@ziffdavis.com', 'dns-admin@cscglobal.com']","[datetime.datetime(2005, 7, 19, 14, 50, 34), datetime.datetime(2005, 7, 19, 10, 50, 34)]","[datetime.datetime(2026, 7, 19, 14, 50, 34), datetime.datetime(2026, 7, 19, 10, 50, 34)]"
+"['WIRED.COM', 'wired.com']","['domainabuse@cscglobal.com', 'domain_admin@advancemags.com', 'domains@condenast.com']","[datetime.datetime(1992, 11, 20, 5, 0), datetime.datetime(1992, 11, 20, 0, 0)]",2023-11-19 05:00:00
+"['TECHCRUNCH.COM', 'techcrunch.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2005-06-10 22:56:20,"[datetime.datetime(2024, 6, 10, 22, 56, 20), datetime.datetime(2024, 6, 10, 0, 0)]"
+BUSINESSINSIDER.COM,abuse@godaddy.com,1998-03-06 05:00:00,2023-09-08 03:59:59
+"['FORBES.COM', 'forbes.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']","[datetime.datetime(1993, 6, 17, 4, 0), datetime.datetime(1993, 6, 17, 7, 0)]","[datetime.datetime(2023, 6, 16, 4, 0), datetime.datetime(2023, 6, 16, 0, 0)]"
+"['THEVERGE.COM', 'theverge.com']","['domainabuse@cscglobal.com', 'domain.names@voxmedia.com']","[datetime.datetime(1998, 11, 11, 5, 0), datetime.datetime(1998, 11, 11, 0, 0)]",2023-11-10 05:00:00
+CNET.COM,abuse@gcd.com,1994-03-05 05:00:00,2024-03-06 05:00:00
+"['ENGADGET.COM', 'engadget.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2004-01-23 18:13:17,"[datetime.datetime(2024, 1, 23, 18, 13, 17), datetime.datetime(2024, 1, 23, 0, 0)]"
+SLASHGEAR.COM,abuse@godaddy.com,2005-12-18 19:37:48,2029-12-18 19:37:48
+"['ARSTECHNICA.COM', 'arstechnica.com']","['domainabuse@cscglobal.com', 'domain_admin@advancemags.com', 'domains@condenast.com']","[datetime.datetime(1998, 12, 30, 5, 0), datetime.datetime(1998, 12, 30, 0, 0)]",2023-12-30 05:00:00
+"['PCWORLD.COM', 'pcworld.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']","[datetime.datetime(1992, 4, 24, 4, 0), datetime.datetime(1992, 4, 24, 7, 0)]","[datetime.datetime(2024, 4, 25, 4, 0), datetime.datetime(2024, 4, 25, 0, 0)]"
+"['GIZMODO.COM', 'gizmodo.com']","['domainabuse@cscglobal.com', 'dnsadmin@gizmodomedia.com']","[datetime.datetime(2002, 7, 1, 16, 57, 10), datetime.datetime(2002, 7, 1, 12, 57, 10)]",2023-07-01 17:02:35
+ZDNET.COM,abuse@gcd.com,1995-04-27 04:00:00,2024-04-28 04:00:00
+"['LIFEHACKER.COM', 'lifehacker.com']","['domainabuse@cscglobal.com', 'hostmaster@ziffdavis.com']","[datetime.datetime(2004, 9, 8, 16, 4, 52), datetime.datetime(2004, 9, 8, 12, 4, 52)]",2023-09-08 16:04:52
+"['HOWSTUFFWORKS.COM', 'howstuffworks.com']","['lmqbdxdmt@whoisprivacyprotect.com', 'ABUSE@ENOM.COM']",1998-07-11 04:00:00,2024-07-10 04:00:00
+MAKEUSEOF.COM,abuse@godaddy.com,2006-07-03 16:44:33,2027-07-03 16:44:33
+DIGITALTRENDS.COM,abuse@godaddy.com,"[datetime.datetime(2003, 6, 4, 18, 21, 23), datetime.datetime(2003, 6, 4, 13, 21, 23)]","[datetime.datetime(2024, 6, 4, 18, 21, 23), datetime.datetime(2024, 6, 4, 13, 21, 23)]"
+"['THESPRUCE.COM', 'thespruce.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2009-09-06 03:03:20,"[datetime.datetime(2023, 9, 6, 3, 3, 20), datetime.datetime(2023, 9, 5, 7, 0)]"
+THEKITCHN.COM,abuse@godaddy.com,2007-10-12 19:27:35,2023-10-12 19:27:35
+"['FOODNETWORK.COM', 'foodnetwork.com']","['domainabuse@cscglobal.com', 'DNS_ADMIN@discovery.com']","[datetime.datetime(1996, 2, 25, 5, 0), datetime.datetime(1996, 2, 25, 0, 0)]",2024-02-26 05:00:00
+"['EPICURIOUS.COM', 'epicurious.com']","['domainabuse@cscglobal.com', 'domain_admin@advancemags.com', 'domains@condenast.com']","[datetime.datetime(1995, 5, 11, 4, 0), datetime.datetime(1995, 5, 11, 0, 0)]",2023-12-15 22:18:03
+"['ALLRECIPES.COM', 'allrecipes.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1998-07-11 04:00:00,"[datetime.datetime(2023, 7, 10, 4, 0), datetime.datetime(2023, 7, 10, 0, 0)]"
+"['BONAPPETIT.COM', 'bonappetit.com']","['domainabuse@cscglobal.com', 'domain_admin@advancemags.com', 'domains@condenast.com']","[datetime.datetime(1995, 4, 17, 4, 0), datetime.datetime(1995, 4, 17, 0, 0)]",2025-04-18 04:00:00
+"['MARTHASTEWART.COM', 'marthastewart.com']","['domainabuse@cscglobal.com', 'dnsadmin@marthastewart.com']","[datetime.datetime(1997, 9, 4, 4, 0), datetime.datetime(1997, 9, 4, 0, 0)]",2023-09-03 04:00:00
+"['HGTV.COM', 'hgtv.com']","['domainabuse@cscglobal.com', 'DNS_ADMIN@discovery.com']","[datetime.datetime(1996, 3, 8, 5, 0), datetime.datetime(1996, 3, 8, 0, 0)]",2024-03-09 04:00:00
+APARTMENTTHERAPY.COM,abuse@godaddy.com,"[datetime.datetime(2001, 12, 5, 20, 9, 47), datetime.datetime(2001, 12, 5, 15, 9, 47)]","[datetime.datetime(2023, 12, 5, 20, 9, 47), datetime.datetime(2023, 12, 5, 15, 9, 47)]"
+"['HOUZZ.COM', 'houzz.com']","['domainabuse@cscglobal.com', 'domain@houzz.com']","[datetime.datetime(2006, 10, 29, 2, 12, 22), datetime.datetime(2006, 10, 28, 22, 12, 22)]",2023-10-29 02:12:22
+"['WAYFAIR.COM', 'wayfair.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2004-06-16 18:03:58,2023-06-16 18:03:58
+"['OVERSTOCK.COM', 'overstock.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1999-02-11 05:00:00,"[datetime.datetime(2025, 2, 11, 5, 0), datetime.datetime(2025, 2, 11, 0, 0)]"
+"['IKEA.COM', 'ikea.com']","['domainabuse@cscglobal.com', 'DNSadmin@inter.ikea.com', 'domainadm@INTER-IKEA.COM']","[datetime.datetime(1995, 7, 29, 4, 0), datetime.datetime(1995, 7, 29, 0, 0)]",2023-07-05 08:40:23
+"['WESTELM.COM', 'westelm.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2001-05-02 17:42:49,"[datetime.datetime(2024, 5, 2, 17, 42, 49), datetime.datetime(2024, 5, 2, 0, 0)]"
+"['POTTERYBARN.COM', 'potterybarn.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1995-10-08 04:00:00,"[datetime.datetime(2024, 10, 7, 4, 0), datetime.datetime(2024, 10, 7, 0, 0)]"
+"['CB2.COM', 'cb2.com']","['domainabuse@cscglobal.com', 'admin@internationaladmin.com', 'noc@fry.com']","[datetime.datetime(1999, 11, 15, 15, 34, 29), datetime.datetime(1999, 11, 15, 10, 34, 29)]",2023-11-15 15:34:29
+"['CRATEANDBARREL.COM', 'crateandbarrel.com']","['domainabuse@cscglobal.com', 'admin@internationaladmin.com', 'noc@fry.com']","[datetime.datetime(1998, 3, 23, 5, 0), datetime.datetime(1998, 3, 23, 0, 0)]",2024-03-22 04:00:00
+"['ETSY.COM', 'etsy.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2004-02-05 23:50:06,"[datetime.datetime(2025, 2, 5, 23, 50, 6), datetime.datetime(2025, 2, 5, 0, 0)]"
+"['ZAZZLE.COM', 'zazzle.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",1999-03-10 05:00:00,2026-10-20 20:02:55
+"['SOCIETY6.COM', 'society6.com']","['kvxtrjgxl@whoisprivacyprotect.com', 'ABUSE@ENOM.COM']","[datetime.datetime(2008, 1, 19, 19, 58, 8), datetime.datetime(2008, 1, 19, 19, 58)]","[datetime.datetime(2024, 1, 19, 19, 58, 8), datetime.datetime(2024, 1, 19, 19, 58)]"
+"['REDBUBBLE.COM', 'redbubble.com']","['abuse@amazonaws.com', '6e7acb80-21ed-44a0-9c36-4eae937639b6@identity-protect.org']",2004-06-13 18:24:05,2023-06-13 18:24:05
+TEEPUBLIC.COM,abuse@godaddy.com,2012-05-08 20:56:58,2024-05-08 20:56:58
+THREADLESS.COM,"['compliance@domain-inc.net', 'support@dotster-inc.com']",2000-11-09 06:46:19,2025-11-09 06:46:19
+KICKSTARTER.COM,abuse@namecheap.com,1998-12-15 05:00:00,2027-12-14 05:00:00
+INDIEGOGO.COM,abuse@godaddy.com,"[datetime.datetime(2007, 4, 19, 8, 59, 6), datetime.datetime(2007, 4, 19, 3, 59, 6)]","[datetime.datetime(2024, 4, 19, 8, 59, 6), datetime.datetime(2024, 4, 19, 3, 59, 6)]"
+GOFUNDME.COM,abuse@godaddy.com,2010-01-22 00:14:58,2024-01-22 00:14:58
+"['PATREON.COM', 'patreon.com']","['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']",2013-02-27 05:48:01,2024-02-27 05:48:01
+kiva.org,abuse@godaddy.com,2002-04-02 10:14:26,2024-04-02 10:14:26
+donorschoose.org,abuse@amazonaws.com,2000-03-26 23:35:48,2024-03-26 23:35:48
+charitynavigator.org,"['domain.operations@web.com', 'abuse@web.com']",2001-06-15 20:51:32,2025-06-15 20:51:32
+givewell.org,abuse@godaddy.com,1999-11-30 12:31:58,2023-11-30 12:31:58
+unicef.org,domainabuse@cscglobal.com,1993-03-10 05:00:00,2030-03-11 05:00:00
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
